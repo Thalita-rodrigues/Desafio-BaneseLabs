@@ -1,5 +1,5 @@
 # Desafio-BaneseLabs
-Criando um Assistente de Análise de Crédito
+Criando um Assistente de Análise de Crédito Inteligente, com o objetivo de otimizar o processo de concessão de empréstimos a pequenas e médias empresas(PMEs).
 # Assistente de Análise de Crédito — Protótipo
 
 Este protótipo demonstra um fluxo ponta-a-ponta para um assistente de análise de crédito:
