@@ -1,0 +1,201 @@
+empresa,receita_anual,divida_total,prazo_pagamento_dias,setor,rating,noticias_recentes,__source_file,__source_type,divida_receita,news_sent,rating_score,sector_risk,baseline_score,decisao_preliminar
+Empresa 1,759601,359801,30,Alimentação,C-,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.47367104572005564,1.0,2.5,0.0,1.7926579085598886,RECUSAR
+Empresa 2,191103,204574,63,Serviços,A+,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,1.0704907824576275,0.0,2.5,0.0,0.23301843508474496,RECUSAR
+Empresa 3,175318,446426,26,Serviços,B+,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,2.5463785806363295,1.0,2.5,0.0,-2.344757161272659,RECUSAR
+Empresa 4,415966,559723,68,Indústria,C+,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,1.3455979575253747,1.0,2.5,0.0,-0.02719591505074942,RECUSAR
+Empresa 5,261132,164263,108,Agronegócio,A,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.6290420170641667,1.0,4.0,0.0,2.8259159658716664,REVISAR
+Empresa 6,689202,623713,101,Indústria,C-,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,0.9049785113798277,0.0,2.5,0.0,0.4880429772403447,RECUSAR
+Empresa 7,168068,128410,47,Transportes,B-,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.764035985434467,1.0,2.5,0.0,1.1779280291310659,RECUSAR
+Empresa 8,504833,458074,117,Saúde,C,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.907377291104187,0.0,0.1,0.0,-1.9487545822083738,RECUSAR
+Empresa 9,326866,432412,46,Alimentação,C-,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,1.3229029632938267,1.0,2.5,0.0,0.062194073412346534,RECUSAR
+Empresa 10,965810,553348,46,Educação,B+,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.5729367059773661,1.0,2.5,0.0,1.5621265880452677,RECUSAR
+Empresa 11,647312,433103,17,Turismo,C,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,0.669079207553699,0.0,0.1,0.0,-1.272158415107398,RECUSAR
+Empresa 12,759791,303943,56,Serviços,C,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.4000350096276476,1.0,0.1,0.0,-0.5120700192552952,RECUSAR
+Empresa 13,580864,427577,50,Serviços,A-,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.7361051812472454,0.0,2.5,0.0,0.9277896375055091,RECUSAR
+Empresa 14,524121,507226,105,Alimentação,D,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.9677650771482158,1.0,2.5,0.0,0.6544698457035685,RECUSAR
+Empresa 15,574774,266560,50,Alimentação,A-,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,0.46376488846050795,0.0,2.5,0.0,1.4724702230789841,RECUSAR
+Empresa 16,216585,196888,103,Agronegócio,B,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,0.9090564905233511,0.0,1.0,0.0,-1.0241129810467022,RECUSAR
+Empresa 17,606642,692751,101,Transportes,C-,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,1.141943683424491,0.0,2.5,0.0,0.014112633151018128,RECUSAR
+Empresa 18,121178,438741,102,Educação,C,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,3.6206324580369373,0.0,0.1,0.0,-6.104,RECUSAR
+Empresa 19,394688,266529,77,Comércio,B+,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.6752903559267066,0.0,2.5,0.0,0.9954192881465868,RECUSAR
+Empresa 20,396008,181846,119,Serviços,B-,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.45919779398395993,0.0,2.5,0.0,1.34360441203208,RECUSAR
+Empresa 21,975563,323816,45,Saúde,A-,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.3319273076162175,0.0,2.5,0.0,1.746145384767565,RECUSAR
+Empresa 22,626514,554990,98,Alimentação,C,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,0.8858381456759147,0.0,0.1,0.0,-1.8676762913518292,RECUSAR
+Empresa 23,144338,613187,63,Serviços,A-,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,4.248271418476077,0.0,2.5,0.0,-3.626,RECUSAR
+Empresa 24,287340,124508,13,Tecnologia,C+,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,0.433312452147282,0.0,2.5,0.0,1.607375095705436,RECUSAR
+Empresa 25,436041,341543,36,Turismo,B,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.7832818473492171,0.0,1.0,0.0,-0.6385636946984343,RECUSAR
+Empresa 26,874118,236511,16,Serviços,A,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.27057102130375993,1.0,4.0,0.0,3.72685795739248,APROVAR
+Empresa 27,925137,433166,34,Transportes,B+,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.46821822065272495,0.0,2.5,0.0,1.49556355869455,RECUSAR
+Empresa 28,214157,650309,57,Turismo,B-,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,3.0365993173232724,0.0,2.5,0.0,-3.614,RECUSAR
+Empresa 29,672834,119351,56,Tecnologia,A+,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,0.17738550667772437,0.0,2.5,0.0,2.033228986644551,REVISAR
+Empresa 30,225349,475680,54,Alimentação,D,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,2.1108591562420957,1.0,2.5,0.0,-1.5297183124841915,RECUSAR
+Empresa 31,666913,109956,93,Transportes,B,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.16487307939716275,0.0,1.0,0.0,0.48425384120567444,RECUSAR
+Empresa 32,794690,268082,36,Indústria,B,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.3373416049025406,0.0,1.0,0.0,0.25331679019491876,RECUSAR
+Empresa 33,738214,129383,85,Serviços,C,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,0.17526489608704252,0.0,0.1,0.0,-0.42052979217408504,RECUSAR
+Empresa 34,693177,411005,36,Saúde,B-,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.5929293672467494,0.0,2.5,0.0,1.2421412655065012,RECUSAR
+Empresa 35,316078,398413,26,Turismo,B-,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,1.2604894994273566,0.0,2.5,0.0,-0.07297899885471311,RECUSAR
+Empresa 36,803707,666586,119,Agronegócio,A,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,0.8293893172511874,0.0,4.0,0.0,2.103221365497625,REVISAR
+Empresa 37,412785,117146,51,Transportes,A,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,0.28379422701890816,1.0,4.0,0.0,3.6304115459621835,APROVAR
+Empresa 38,957804,121843,13,Educação,C-,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.12721078634042038,1.0,2.5,0.0,2.5195784273191593,REVISAR
+Empresa 39,490055,605350,96,Educação,C-,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,1.2352695105651406,0.0,2.5,0.0,-0.16253902113028112,RECUSAR
+Empresa 40,878650,500299,90,Alimentação,C+,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,0.5693950947476242,0.0,2.5,0.0,1.1812098105047517,RECUSAR
+Empresa 41,950764,375197,116,Agronegócio,C+,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,0.39462684746162036,0.0,2.5,0.0,1.4787463050767593,RECUSAR
+Empresa 42,490188,446812,87,Saúde,A,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.9115115017095482,0.0,4.0,0.0,2.002976996580904,REVISAR
+Empresa 43,622924,665872,101,Saúde,C,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,1.0689458104038374,1.0,0.1,0.0,-1.9398916208076746,RECUSAR
+Empresa 44,318430,675958,34,Agronegócio,A-,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,2.12278365731872,0.0,2.5,0.0,-1.81356731463744,RECUSAR
+Empresa 45,209362,274702,113,Tecnologia,A,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,1.312091019382696,0.0,4.0,0.0,1.149817961234608,RECUSAR
+Empresa 46,642945,194071,110,Alimentação,B-,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.3018469698030158,0.0,2.5,0.0,1.6763060603939686,RECUSAR
+Empresa 47,542446,220198,92,Transportes,B-,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,0.40593533734233456,0.0,2.5,0.0,1.504129325315331,RECUSAR
+Empresa 48,595123,372813,63,Saúde,A-,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,0.6264469697860778,0.0,2.5,0.0,1.1211060604278442,RECUSAR
+Empresa 49,311023,472294,37,Comércio,D,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,1.5185179231117956,1.0,2.5,0.0,-0.3110358462235911,RECUSAR
+Empresa 50,556512,121669,27,Educação,C-,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,0.21862781036168133,0.0,2.5,0.0,2.0087443792766373,REVISAR
+Empresa 51,592649,359822,84,Serviços,A,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,0.6071418326868011,0.0,4.0,0.0,2.6177163346263974,REVISAR
+Empresa 52,233787,479941,90,Saúde,B-,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,2.0528985786207103,0.0,2.5,0.0,-1.7857971572414206,RECUSAR
+Empresa 53,290794,589698,51,Turismo,A-,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,2.0278891586483905,0.0,2.5,0.0,-1.657778317296781,RECUSAR
+Empresa 54,934868,339196,55,Indústria,B-,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,0.36282769332141007,0.0,2.5,0.0,1.6643446133571798,RECUSAR
+Empresa 55,107897,136016,58,Saúde,C,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,1.260609655504787,1.0,0.1,0.0,-2.237219311009574,RECUSAR
+Empresa 56,331823,200384,116,Agronegócio,B-,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,0.6038882175135539,1.0,2.5,0.0,1.3602235649728922,RECUSAR
+Empresa 57,689137,352320,104,Serviços,C+,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,0.5112481262796802,0.0,2.5,0.0,1.2695037474406397,RECUSAR
+Empresa 58,338317,627462,16,Indústria,B+,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,1.8546570228513495,0.0,2.5,0.0,-1.241314045702699,RECUSAR
+Empresa 59,209810,393995,87,Educação,B+,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,1.8778656880034317,0.0,2.5,0.0,-1.4297313760068633,RECUSAR
+Empresa 60,545334,610654,66,Turismo,D,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,1.1197798046701655,0.0,2.5,0.0,0.12844039065966906,RECUSAR
+Empresa 61,369735,335286,29,Turismo,B-,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.9068278631993184,1.0,2.5,0.0,0.9283442736013632,RECUSAR
+Empresa 62,104304,642729,18,Turismo,D,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,6.16207432121491,1.0,2.5,0.0,-3.236,RECUSAR
+Empresa 63,825887,688891,49,Comércio,B,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.8341225857774732,1.0,1.0,0.0,-0.46624517155494644,RECUSAR
+Empresa 64,863837,439145,17,Alimentação,C+,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,0.5083655828588032,0.0,2.5,0.0,1.4492688342823936,RECUSAR
+Empresa 65,961315,472221,64,Turismo,C-,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,0.49122400045770637,0.0,2.5,0.0,1.389551999084587,RECUSAR
+Empresa 66,153327,270032,36,Indústria,B,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,1.7611510040632112,0.0,1.0,0.0,-2.5943020081264225,RECUSAR
+Empresa 67,209791,137835,22,Serviços,B+,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.6570110252584715,1.0,2.5,0.0,1.441977949483057,RECUSAR
+Empresa 68,877939,149001,22,Educação,B,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,0.16971680264801997,0.0,1.0,0.0,0.61656639470396,RECUSAR
+Empresa 69,511431,247453,25,Tecnologia,A-,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,0.4838443504597883,1.0,2.5,0.0,1.7823112990804235,RECUSAR
+Empresa 70,206157,612190,53,Turismo,A-,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,2.9695329287872836,0.0,2.5,0.0,-3.545065857574567,RECUSAR
+Empresa 71,607907,388195,116,Serviços,B,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,0.6385762953872879,0.0,1.0,0.0,-0.5091525907745758,RECUSAR
+Empresa 72,674201,349551,58,Agronegócio,A-,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.5184670446943864,0.0,2.5,0.0,1.347065910611227,RECUSAR
+Empresa 73,928025,284544,38,Serviços,A-,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.3066124296220468,0.0,2.5,0.0,1.8107751407559063,RECUSAR
+Empresa 74,140068,562643,49,Turismo,B,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,4.016927492360853,0.0,1.0,0.0,-5.098,RECUSAR
+Empresa 75,612116,353741,103,Alimentação,C,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,0.5778986335923256,0.0,0.1,0.0,-1.2617972671846511,RECUSAR
+Empresa 76,465394,646241,84,Indústria,A,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,1.3885890234940717,0.0,4.0,0.0,1.0548219530118568,RECUSAR
+Empresa 77,744245,234983,81,Agronegócio,B+,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,0.31573339424517466,0.0,2.5,0.0,1.7065332115096508,RECUSAR
+Empresa 78,979562,210237,74,Turismo,A,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.21462347457332973,1.0,4.0,0.0,3.72275305085334,APROVAR
+Empresa 79,873185,148453,108,Educação,B,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,0.17001322743748462,0.0,1.0,0.0,0.44397354512503084,RECUSAR
+Empresa 80,504368,272691,40,Turismo,C+,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.5406588046822954,1.0,2.5,0.0,1.638682390635409,RECUSAR
+Empresa 81,238349,455483,64,Serviços,B+,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,1.9109918648704212,0.0,2.5,0.0,-1.4499837297408424,RECUSAR
+Empresa 82,853482,695874,83,Serviços,B-,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.8153352970537164,0.0,2.5,0.0,0.7033294058925671,RECUSAR
+Empresa 83,291100,560147,32,Agronegócio,B+,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,1.9242425283407765,0.0,2.5,0.0,-1.412485056681553,RECUSAR
+Empresa 84,133774,235901,112,Educação,C+,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,1.76342936594555,0.0,2.5,0.0,-1.2508587318911,RECUSAR
+Empresa 85,737249,462246,37,Serviços,B+,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,0.6269876256190242,0.0,2.5,0.0,1.1720247487619515,RECUSAR
+Empresa 86,150348,536874,45,Agronegócio,A-,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,3.570875568680661,0.0,2.5,0.0,-3.59,RECUSAR
+Empresa 87,836030,212955,94,Agronegócio,B-,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,0.2547217205124218,0.0,2.5,0.0,1.8025565589751564,RECUSAR
+Empresa 88,972888,550075,64,Serviços,A-,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,0.5654042397480491,0.0,2.5,0.0,1.241191520503902,RECUSAR
+Empresa 89,981411,281020,40,Tecnologia,C+,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,0.2863428268075251,0.0,2.5,0.0,1.8473143463849497,RECUSAR
+Empresa 90,926500,286405,98,Educação,D,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.30912574203993526,1.0,2.5,0.0,1.9857485159201296,RECUSAR
+Empresa 91,414436,317784,58,Serviços,D,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.7667866691117567,1.0,2.5,0.0,1.1504266617764864,RECUSAR
+Empresa 92,186174,555630,109,Transportes,D,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,2.9844661445744305,0.0,2.5,0.0,-3.686932289148861,RECUSAR
+Empresa 93,508008,420265,13,Transportes,A-,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.8272802790507237,1.0,2.5,0.0,1.1194394418985527,RECUSAR
+Empresa 94,525244,672059,70,Agronegócio,C+,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,1.2795177098643677,0.0,2.5,0.0,-0.1990354197287355,RECUSAR
+Empresa 95,490025,640894,83,Agronegócio,C-,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,1.3078802101933575,0.0,2.5,0.0,-0.2817604203867151,RECUSAR
+Empresa 96,794929,524346,85,Serviços,C,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.6596136258709897,0.0,0.1,0.0,-1.3892272517419793,RECUSAR
+Empresa 97,488596,548235,15,Alimentação,A-,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,1.1220619898648372,0.0,2.5,0.0,0.22587602027032563,RECUSAR
+Empresa 98,247408,421213,88,Transportes,A+,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,1.702503556877708,0.0,2.5,0.0,-1.081007113755416,RECUSAR
+Empresa 99,512823,175356,50,Comércio,A-,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.3419425415786733,0.0,2.5,0.0,1.7161149168426533,RECUSAR
+Empresa 100,451774,123408,118,Transportes,B-,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,0.27316313023768524,1.0,2.5,0.0,2.0176737395246294,REVISAR
+Empresa 101,704524,344392,58,Indústria,C-,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.48882933725465705,0.0,2.5,0.0,1.4063413254906858,RECUSAR
+Empresa 102,969673,225182,38,Turismo,B+,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.23222467780375447,0.0,2.5,0.0,1.959550644392491,RECUSAR
+Empresa 103,929707,591897,99,Educação,B+,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,0.6366489657494243,0.0,2.5,0.0,1.0287020685011514,RECUSAR
+Empresa 104,531344,209282,80,Transportes,A-,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.39387289590171337,0.0,2.5,0.0,1.5522542081965733,RECUSAR
+Empresa 105,221589,148280,55,Serviços,A,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.6691667907703,1.0,4.0,0.0,2.8516664184594,REVISAR
+Empresa 106,701931,224879,61,Agronegócio,C+,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,0.3203719453906438,1.0,2.5,0.0,2.0372561092187125,REVISAR
+Empresa 107,956595,432900,69,Educação,C-,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.45254261207721136,1.0,2.5,0.0,1.7569147758455774,RECUSAR
+Empresa 108,208346,437967,77,Turismo,B+,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,2.102113791481478,0.0,2.5,0.0,-1.8582275829629555,RECUSAR
+Empresa 109,251595,674364,28,Transportes,D,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,2.6803553329756156,1.0,2.5,0.0,-2.6167106659512314,RECUSAR
+Empresa 110,956718,652195,102,Tecnologia,C,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.6817003547544835,0.0,0.1,0.0,-1.467400709508967,RECUSAR
+Empresa 111,226973,637054,81,Alimentação,A+,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,2.806739127561428,1.0,2.5,0.0,-2.975478255122856,RECUSAR
+Empresa 112,316113,328268,109,Educação,B,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,1.0384514398332243,0.0,1.0,0.0,-1.2949028796664486,RECUSAR
+Empresa 113,372918,603826,58,Transportes,C-,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,1.6191924229991579,0.0,2.5,0.0,-0.8543848459983158,RECUSAR
+Empresa 114,403570,307852,117,Comércio,B+,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,0.7628218152984613,1.0,2.5,0.0,1.0403563694030775,RECUSAR
+Empresa 115,627448,220257,84,Serviços,B,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,0.35103626117224057,0.0,1.0,0.0,0.12992747765551885,RECUSAR
+Empresa 116,198690,451212,52,Alimentação,A-,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,2.2709346217726107,0.0,2.5,0.0,-2.1458692435452216,RECUSAR
+Empresa 117,665804,391688,118,Tecnologia,A+,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.5882932514673989,0.0,2.5,0.0,1.0874134970652023,RECUSAR
+Empresa 118,183059,682603,34,Serviços,A+,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,3.7288688346380128,1.0,2.5,0.0,-3.2680000000000002,RECUSAR
+Empresa 119,919192,446286,99,Saúde,A+,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,0.48551989138286666,0.0,2.5,0.0,1.3309602172342667,RECUSAR
+Empresa 120,374857,430877,111,Agronegócio,B+,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,1.1494436545135878,0.0,2.5,0.0,-0.020887309027175532,RECUSAR
+Empresa 121,660925,382388,53,Serviços,C+,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.5785648901161251,1.0,2.5,0.0,1.5368702197677497,RECUSAR
+Empresa 122,215200,294806,15,Tecnologia,D,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,1.3699163568773234,0.0,2.5,0.0,-0.2698327137546468,RECUSAR
+Empresa 123,658936,558437,46,Comércio,B+,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.8474829118457635,0.0,2.5,0.0,0.713034176308473,RECUSAR
+Empresa 124,419703,648165,90,Turismo,B-,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,1.544342070464114,1.0,2.5,0.0,-0.4686841409282279,RECUSAR
+Empresa 125,501100,260145,107,Transportes,A+,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.5191478746757134,0.0,2.5,0.0,1.2477042506485732,RECUSAR
+Empresa 126,546686,406928,51,Tecnologia,C,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.7443541630844763,0.0,0.1,0.0,-1.4907083261689527,RECUSAR
+Empresa 127,429036,640776,102,Indústria,A,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,1.4935250188795346,0.0,4.0,0.0,0.8089499622409309,RECUSAR
+Empresa 128,453436,487570,39,Serviços,A+,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,1.0752785398600906,0.0,2.5,0.0,0.2714429202798188,RECUSAR
+Empresa 129,392697,539752,96,Educação,C,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,1.3744744675920622,0.0,0.1,0.0,-2.8409489351841244,RECUSAR
+Empresa 130,968186,121253,70,Agronegócio,C,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.12523729944452822,1.0,0.1,0.0,0.009525401110943521,RECUSAR
+Empresa 131,293801,122898,23,Educação,C+,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,0.4183035455971899,0.0,2.5,0.0,1.61739290880562,RECUSAR
+Empresa 132,552262,156882,62,Serviços,D,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.284071690610616,1.0,2.5,0.0,2.1078566187787677,REVISAR
+Empresa 133,102728,543821,80,Educação,D,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,5.293795265166264,0.0,2.5,0.0,-3.66,RECUSAR
+Empresa 134,103431,575452,10,Educação,B+,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,5.563631793176127,0.0,2.5,0.0,-3.52,RECUSAR
+Empresa 135,694504,690849,47,Alimentação,D,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,0.9947372513333257,0.0,2.5,0.0,0.41652549733334865,RECUSAR
+Empresa 136,555850,250072,25,Turismo,B,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.4498911576864262,0.0,1.0,0.0,0.05021768462714764,RECUSAR
+Empresa 137,583329,580051,35,Saúde,A,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,0.9943805296839348,0.0,4.0,0.0,1.9412389406321304,RECUSAR
+Empresa 138,703805,680130,92,Alimentação,B-,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,0.9663614211322739,0.0,2.5,0.0,0.3832771577354523,RECUSAR
+Empresa 139,683999,274180,23,Comércio,C,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.4008485392522504,0.0,0.1,0.0,-0.7476970785045008,RECUSAR
+Empresa 140,664805,187712,70,Alimentação,B,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,0.2823564804717173,0.0,1.0,0.0,0.2952870390565654,RECUSAR
+Empresa 141,565751,546774,108,Turismo,C-,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,0.9664569748882459,0.0,2.5,0.0,0.35108605022350825,RECUSAR
+Empresa 142,450410,297640,27,Educação,B-,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,0.66082014164872,0.0,2.5,0.0,1.1243597167025599,RECUSAR
+Empresa 143,818668,503815,44,Transportes,B-,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,0.6154081996609126,0.0,2.5,0.0,1.1811836006781746,RECUSAR
+Empresa 144,812518,635885,76,Comércio,D,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.7826103544783007,1.0,2.5,0.0,1.0827792910433984,RECUSAR
+Empresa 145,170516,657126,102,Agronegócio,A-,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,3.8537497947406694,1.0,2.5,0.0,-3.4040000000000004,RECUSAR
+Empresa 146,321030,505286,114,Indústria,B-,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,1.5739525901006137,0.0,2.5,0.0,-0.8759051802012274,RECUSAR
+Empresa 147,949690,584183,24,Indústria,B-,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.615130200381177,1.0,2.5,0.0,1.521739599237646,RECUSAR
+Empresa 148,935333,655202,97,Alimentação,A,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,0.7005013187816531,0.0,4.0,0.0,2.404997362436694,REVISAR
+Empresa 149,847910,456881,47,Turismo,A+,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.538831951504287,0.0,2.5,0.0,1.328336096991426,RECUSAR
+Empresa 150,463677,553755,86,Saúde,A,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,1.1942688552591567,0.0,4.0,0.0,1.4394622894816866,RECUSAR
+Empresa 151,604526,104470,72,Educação,D,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.17281307999986767,1.0,2.5,0.0,2.3103738400002642,REVISAR
+Empresa 152,937068,218012,115,Saúde,A+,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,0.23265333999240184,1.0,2.5,0.0,2.1046933200151963,REVISAR
+Empresa 153,823976,598869,50,Indústria,D,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,0.7268039360369719,0.0,2.5,0.0,0.9463921279260562,RECUSAR
+Empresa 154,254982,271273,103,Alimentação,B-,Concorrente lançou um novo produto.,dadoscreditoficticios.csv,csv,1.0638907844475296,0.0,2.5,0.0,0.16621843110494078,RECUSAR
+Empresa 155,530905,557204,41,Educação,A-,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,1.049536169371168,0.0,2.5,0.0,0.318927661257664,RECUSAR
+Empresa 156,654813,586267,111,Transportes,C,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,0.8953197325037835,0.0,0.1,0.0,-1.9126394650075669,RECUSAR
+Empresa 157,585550,246202,76,Agronegócio,C+,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,0.42046281274015884,0.0,2.5,0.0,1.5070743745196824,RECUSAR
+Empresa 158,237842,339802,60,Alimentação,D,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,1.4286879525062857,0.0,2.5,0.0,-0.4773759050125713,RECUSAR
+Empresa 159,759220,312155,118,Agronegócio,D,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.41115223518874633,1.0,2.5,0.0,1.7416955296225074,RECUSAR
+Empresa 160,813258,354601,15,Tecnologia,D,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,0.436025222008268,0.0,2.5,0.0,1.597949555983464,RECUSAR
+Empresa 161,612022,405928,34,Transportes,B-,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,0.663257203172435,0.0,2.5,0.0,1.10548559365513,RECUSAR
+Empresa 162,517818,576295,53,Agronegócio,A-,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,1.1129296393713621,1.0,2.5,0.0,0.46814072125727574,RECUSAR
+Empresa 163,152569,503340,56,Comércio,A,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,3.2990974575438,1.0,4.0,0.0,-1.812,RECUSAR
+Empresa 164,450420,226856,68,Turismo,B+,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.5036543670352116,1.0,2.5,0.0,1.6566912659295767,RECUSAR
+Empresa 165,556936,646809,55,Indústria,B+,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,1.1613704267635778,0.0,2.5,0.0,0.06725914647284435,RECUSAR
+Empresa 166,349200,432569,41,Comércio,C+,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,1.2387428407789232,0.0,2.5,0.0,-0.05948568155784632,RECUSAR
+Empresa 167,377604,175726,36,Comércio,C,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.46537112954311927,1.0,0.1,0.0,-0.6027422590862386,RECUSAR
+Empresa 168,499115,117427,79,Educação,C-,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.23527042865872594,1.0,2.5,0.0,2.171459142682548,REVISAR
+Empresa 169,143345,556501,52,Comércio,A-,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,3.8822491192577346,0.0,2.5,0.0,-3.604,RECUSAR
+Empresa 170,385606,191846,109,Tecnologia,A+,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,0.4975181921443131,1.0,2.5,0.0,1.586963615711374,RECUSAR
+Empresa 171,884255,656172,41,Alimentação,C,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,0.7420619617644232,0.0,0.1,0.0,-1.4661239235288464,RECUSAR
+Empresa 172,989459,479253,77,Tecnologia,A,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,0.48435862425830684,0.0,4.0,0.0,2.8772827514833863,REVISAR
+Empresa 173,447699,387017,14,Indústria,A,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.8644580398884072,1.0,4.0,0.0,2.5430839202231854,REVISAR
+Empresa 174,219311,294818,45,Indústria,B-,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,1.3442918959833297,0.0,2.5,0.0,-0.2785837919666593,RECUSAR
+Empresa 175,641315,411222,19,Serviços,B-,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,0.6412168747027591,1.0,2.5,0.0,1.4795662505944818,RECUSAR
+Empresa 176,658476,288131,42,Indústria,C,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,0.4375725159307249,0.0,0.1,0.0,-0.8591450318614497,RECUSAR
+Empresa 177,967978,256537,108,Transportes,C,Investimento em tecnologia de prevenção de fraudes.,dadoscreditoficticios.csv,csv,0.26502358524677216,0.0,0.1,0.0,-0.6460471704935443,RECUSAR
+Empresa 178,909309,281917,47,Indústria,B-,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,0.31003432276596843,0.0,2.5,0.0,1.785931354468063,RECUSAR
+Empresa 179,692353,166115,86,Tecnologia,B-,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,0.23992818692198922,1.0,2.5,0.0,2.148143626156022,REVISAR
+Empresa 180,975589,543705,108,Transportes,D,Aumento no custo das matérias-primas.,dadoscreditoficticios.csv,csv,0.5573094817592245,1.0,2.5,0.0,1.4693810364815512,RECUSAR
+Empresa 181,280894,484066,43,Serviços,B,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,1.7233048765726573,0.0,1.0,0.0,-2.5326097531453144,RECUSAR
+Empresa 182,689982,620246,106,Comércio,C-,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.8989306967428136,0.0,2.5,0.0,0.4901386065143729,RECUSAR
+Empresa 183,105294,448582,14,Educação,B,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,4.260280737743841,1.0,1.0,0.0,-4.728,RECUSAR
+Empresa 184,518426,194859,111,Comércio,D,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,0.37586656533430035,0.0,2.5,0.0,1.5262668693313994,RECUSAR
+Empresa 185,839382,546009,35,Agronegócio,A+,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,0.6504892885480031,0.0,2.5,0.0,1.1290214229039937,RECUSAR
+Empresa 186,597871,272691,52,Saúde,C,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,0.45610340692222906,0.0,0.1,0.0,-0.9162068138444581,RECUSAR
+Empresa 187,667772,345403,110,Turismo,A-,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,0.51724690463212,0.0,2.5,0.0,1.24550619073576,RECUSAR
+Empresa 188,950331,643458,110,Indústria,C-,Cuidado com flutuações nos preços!,dadoscreditoficticios.csv,csv,0.6770882987085552,0.0,2.5,0.0,0.9258234025828895,RECUSAR
+Empresa 189,394994,663200,73,Educação,B+,Inconsistências financeiras apontadas em auditoria.,dadoscreditoficticios.csv,csv,1.6790128457647457,0.0,2.5,0.0,-1.0040256915294914,RECUSAR
+Empresa 190,686360,625345,101,Agronegócio,C-,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,0.9111035025351127,1.0,2.5,0.0,0.7757929949297745,RECUSAR
+Empresa 191,318722,653673,51,Transportes,B-,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,2.0509189826871066,0.0,2.5,0.0,-1.7038379653742133,RECUSAR
+Empresa 192,877570,681162,31,Turismo,A+,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,0.7761910730767916,0.0,2.5,0.0,0.8856178538464168,RECUSAR
+Empresa 193,517851,233118,51,Agronegócio,A-,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,0.4501642364309425,0.0,2.5,0.0,1.497671527138115,RECUSAR
+Empresa 194,870499,288862,33,Alimentação,C-,Expansão em novos mercados anunciada.,dadoscreditoficticios.csv,csv,0.3318349590292464,1.0,2.5,0.0,2.070330081941507,REVISAR
+Empresa 195,471446,347765,32,Saúde,C+,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,0.7376560624122381,0.0,2.5,0.0,0.9606878751755237,RECUSAR
+Empresa 196,335824,366429,66,Agronegócio,C,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,1.09113404640526,0.0,0.1,0.0,-2.21426809281052,RECUSAR
+Empresa 197,348671,578511,22,Saúde,A-,Oportunidades de parcerias surgindo.,dadoscreditoficticios.csv,csv,1.6591887481321934,1.0,2.5,0.0,-0.5623774962643868,RECUSAR
+Empresa 198,519371,308704,115,Tecnologia,B+,Insatisfação de clientes em redes sociais.,dadoscreditoficticios.csv,csv,0.5943805102710779,0.0,2.5,0.0,1.0812389794578443,RECUSAR
+Empresa 199,764435,563322,97,Saúde,D,Mudanças na legislação para o setor.,dadoscreditoficticios.csv,csv,0.7369128833713788,0.0,2.5,0.0,0.8321742332572424,RECUSAR
+Empresa 200,183733,314198,59,Agronegócio,A,Setor afetado por mudanças climáticas.,dadoscreditoficticios.csv,csv,1.7100792998535919,0.0,4.0,0.0,0.4618414002928163,RECUSAR
