@@ -41,7 +41,7 @@ docker compose up -- build
 
 ## Downloads
 - [Diagrama de Arquitetura](arquitetura_baneselabs.png)
-- [Projeto completo (código + dataset)](Desafio-BaneseLabs.zip)
+- [Projeto completo (código + dataset)](prototipo_completo.zip)
 # Arquitetura e Fluxo
 
 ### Fontes de dados: CSV, JSON, XML, Parquet e notícias para contexto.
