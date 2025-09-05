@@ -38,3 +38,31 @@ streamlit run ui_streamlit.py -- server.port 8501
 docker compose up -- build
 
 ```
+# Arquitetura e Fluxo
+
+### Fontes de dados: CSV, JSON, XML, Parquet e notícias para contexto.
+
+### Pipeline principal:
+
+01. Ingestão: pandas/pyarrow → leitura unificada.
+
+02. Limpeza e padronização.
+
+03. Feature Store: ex.: dívida/receita, rating, setor.
+
+04. Regras de Risco: flags determinísticas (ex.: dívida/receita > 1).
+
+05. Modelo/Score baseline: combina rating, dívida/receita, prazo, setor e sinais de notícias; rótulos “APROVAR / REVISAR / RECUSAR”.
+
+06. RAG mock: extrai termos positivos/negativos de notícias como contexto.
+
+07. LLM de explicação (mock): gera justificativas estruturadas.
+
+08. API FastAPI: endpoints /score, /explicar, /simular.
+
+09. UI Streamlit: painel do analista com score, explicações e simulação de cortes.
+
+10. Logs e monitoramento: auditoria, drift, viés e armazenamento seguro.
+
+A arquitetura atende aos objetivos do desafio: sintetizar dados, identificar riscos, gerar recomendações e simular cenários.
+
