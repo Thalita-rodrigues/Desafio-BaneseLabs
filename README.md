@@ -38,6 +38,10 @@ streamlit run ui_streamlit.py -- server.port 8501
 docker compose up -- build
 
 ```
+
+## Downloads
+- [Diagrama de Arquitetura](arquitetura_baneselabs.png)
+- [Projeto completo (código + dataset)](Desafio-BaneseLabs.zip)
 # Arquitetura e Fluxo
 
 ### Fontes de dados: CSV, JSON, XML, Parquet e notícias para contexto.
