@@ -64,5 +64,8 @@ docker compose up -- build
 
 10. Logs e monitoramento: auditoria, drift, viés e armazenamento seguro.
 
+
+ <img width="540" height="675" alt="Image" src="https://github.com/user-attachments/assets/b91c7ad0-4e1f-41e5-ae2d-9c1b3c4a167e" />
+
 A arquitetura atende aos objetivos do desafio: sintetizar dados, identificar riscos, gerar recomendações e simular cenários.
 
